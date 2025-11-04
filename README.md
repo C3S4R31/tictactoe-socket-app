@@ -26,7 +26,7 @@ Backend:
 1. Clonar el repositorio
 
 ```
-git clone https://github.com/tuusuario/tictactoe-socket-app.git
+git clone https://github.com/C3S4R31/tictactoe-socket-app.git
 cd tictactoe-socket-app
 ```
 
